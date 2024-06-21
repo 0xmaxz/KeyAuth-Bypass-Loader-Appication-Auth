@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+D:\GitHub\ilegproj\4(4)\bypass\KeyAuth-Bypass-Loader-Appication-Auth-Ez\KeyAuth Bypass\dllmain.cpp(73,1): error C1010: ön derlenmiş üstbilgi aranırken beklenmeyen dosya sonu. kaynak kodunuza '#include "pch.h"' eklemeyi unuttunuz mu?
